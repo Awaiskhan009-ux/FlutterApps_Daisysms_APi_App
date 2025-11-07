@@ -23,8 +23,9 @@ This project demonstrates API integration with **DaisySMS**, allowing users to s
 - Flutter & Dart  
 - DaisySMS API  
 - HTTP / Dio  
-- Firebase (if used)  
+- Firebase 
 
 ---
 
 ## 📁 Folder Structure
+
