@@ -7,7 +7,7 @@ import 'dart:convert';
 
 Future<Map<String,String>?> getDaisyNumber() async{
 
-const apikey ="Yd5ur8xIMnvxMsPBTX6WO04uuyENMI";
+const apikey ="";
 const Service ="ds";
 
   final url =Uri.parse('https://daisysms.com/stubs/handler_api.php?api_key=$apiKey&action=getNumber&service=$service&max_price=5.0');
